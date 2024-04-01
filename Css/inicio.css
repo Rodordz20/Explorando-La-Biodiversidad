@@ -408,7 +408,9 @@ header.abajo .navbar ul li .con:hover{
 .banner{
 	height: 100vh;
 }
-
+.divicion{
+    top: 860px;
+}
 
 
 }
