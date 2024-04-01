@@ -344,7 +344,7 @@ header.abajo .navbar ul li .con:hover{
     .banner .conten{
         position: absolute;
         top: 23%;
-        width: 1140px;
+        width: 1000px;
         max-width: 85%;
         left: 50%;
         transform: translateX(-50%);
